@@ -9,7 +9,7 @@
   </parent>
 
   <artifactId>dockerfile-maven</artifactId>
-  <version>1.4.14-SNAPSHOT</version>
+  <version>1.4.14-cs-SNAPSHOT</version>
   <packaging>pom</packaging>
 
   <name>Dockerfile Maven Support</name>
